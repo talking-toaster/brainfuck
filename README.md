@@ -1,4 +1,4 @@
-# Brainfuxck
+# Brainfuck
 a Brainfuck interputer written in Python
 
 ### Brainfuck简介
